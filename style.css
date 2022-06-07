@@ -1,0 +1,47 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 20px;
+    padding-left: 70px;
+}
+
+#button_1 {
+    color: #5A56E9;
+    background-color: #FAB8C2;
+    border-color: #e7acb5;
+}
+
+#button_2{
+    color: white;
+    background-color: #5A56E9;
+    border-color: #5A56E9;
+}
+
+.rounded {
+    border-radius: 2.25rem!important;
+}
+
+.bg-secondary {
+    --bs-bg-opacity: 1;
+    background: rgb(240,240,240);
+    background: linear-gradient(90deg, rgba(240,240,240,1) 50%, rgba(255,255,255,0) 100%)!important;
+}
+
+.bg-danger{
+    --bs-bg-opacity: 1;
+    background: #FAB8C2!important;
+}
+
+#position5 {
+    top: -1315%;
+    left: -22%;
+}
+
+#circleFon{
+    top: -29%;
+    left: 48%;
+    z-index: -1;
+}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: #5A56E9!important;
+}
